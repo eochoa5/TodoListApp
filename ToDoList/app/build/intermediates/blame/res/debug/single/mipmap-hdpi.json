@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
-        "source": "/Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\Edwin\\Desktop\\udacity\\MarksApp\\ToDoList\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\Edwin\\Desktop\\udacity\\MarksApp\\ToDoList\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "/Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
-        "source": "/Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+        "merged": "C:\\Users\\Edwin\\Desktop\\udacity\\MarksApp\\ToDoList\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Edwin\\Desktop\\udacity\\MarksApp\\ToDoList\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     }
 ]

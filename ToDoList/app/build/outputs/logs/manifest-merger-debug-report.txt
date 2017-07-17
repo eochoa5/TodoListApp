@@ -1,95 +1,93 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/src/main/AndroidManifest.xml:2:1-20:12
+ADDED from C:\Users\Edwin\Desktop\udacity\MarksApp\ToDoList\app\src\main\AndroidManifest.xml:2:1-22:12
 	package
-		ADDED from /Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/src/main/AndroidManifest.xml:3:5-40
-		INJECTED from /Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/src/main/AndroidManifest.xml
+		ADDED from C:\Users\Edwin\Desktop\udacity\MarksApp\ToDoList\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\Edwin\Desktop\udacity\MarksApp\ToDoList\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Edwin\Desktop\udacity\MarksApp\ToDoList\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\Edwin\Desktop\udacity\MarksApp\ToDoList\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Edwin\Desktop\udacity\MarksApp\ToDoList\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Edwin\Desktop\udacity\MarksApp\ToDoList\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from /Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\Edwin\Desktop\udacity\MarksApp\ToDoList\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Edwin\Desktop\udacity\MarksApp\ToDoList\app\src\main\AndroidManifest.xml
 application
-ADDED from /Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/src/main/AndroidManifest.xml:5:5-18:19
-MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] /Users/mark/.android/build-cache/d86ea54c69eb8de07799a55d160957c3ab9d4eec/output/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:design:25.3.1] /Users/mark/.android/build-cache/714aa8b7bc8b4e35519217c99868c9466b53b607/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/mark/.android/build-cache/2a6a6a5de6a804c20361c7f28f51f634b6a0aa9c/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/mark/.android/build-cache/acf0a6a22077ba347f55a4b29dee11c5aacef30a/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/mark/.android/build-cache/982370b4bf09a3552b26d762358cd7af7197f625/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:transition:25.3.1] /Users/mark/.android/build-cache/593250c810594616a1a15c7655a1a8c3b2646fc4/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-v4:25.3.1] /Users/mark/.android/build-cache/1c41ed3d3f968dfca72f329ee84319bc7909374b/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] /Users/mark/.android/build-cache/df4d8d5b9d54ee28ae75bb807b0cc1cff20089ae/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] /Users/mark/.android/build-cache/70ff3bd69ba992b8cf0424c262f156cd36bc20ea/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] /Users/mark/.android/build-cache/6d6d88cbb2488891b2e87df13e37d343b236dee3/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] /Users/mark/.android/build-cache/a3316f35145b4081aeaa9fe4ff9f303862dac308/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] /Users/mark/.android/build-cache/19683f69545d7fd363fd5680c8edad42cd6e05a8/output/AndroidManifest.xml:29:5-20
+ADDED from C:\Users\Edwin\Desktop\udacity\MarksApp\ToDoList\app\src\main\AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\Edwin\.android\build-cache\729e28baf4a55efd70ce36e9f90be8b2f4c36dd1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Edwin\.android\build-cache\8c00700bdd52b7a8ef1f21acac63ca86d38e345b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Edwin\.android\build-cache\4ecade42da9e7011b8cffd5c4714946d72531825\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Edwin\.android\build-cache\de884a8bce34ca39093eb94ede348dc090e4b358\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Edwin\.android\build-cache\59d686678e6e2c1f91369251af2e00b3c127bdcc\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Edwin\.android\build-cache\d9d0dfd746ed830af352f1e4b7d8a10ed5f649d3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Edwin\.android\build-cache\8087103f9a2c094008d93a5536e353a5e5e35007\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Edwin\.android\build-cache\3470fc3c67f4e32ca3eee95d5e679a971f2d0086\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Edwin\.android\build-cache\35412357f340279e17ab52330ce489ce75b10e97\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Edwin\.android\build-cache\3afb54ad38b4f4043aabff408eeb03401632da56\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Edwin\.android\build-cache\c5ded273422609b060900081306bc21478cb88c8\output\AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from /Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from C:\Users\Edwin\Desktop\udacity\MarksApp\ToDoList\app\src\main\AndroidManifest.xml:8:9-41
 	android:supportsRtl
-		ADDED from /Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/src/main/AndroidManifest.xml:10:9-35
-	android:roundIcon
-		ADDED from /Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/src/main/AndroidManifest.xml:9:9-54
+		ADDED from C:\Users\Edwin\Desktop\udacity\MarksApp\ToDoList\app\src\main\AndroidManifest.xml:9:9-35
 	android:allowBackup
-		ADDED from /Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\Edwin\Desktop\udacity\MarksApp\ToDoList\app\src\main\AndroidManifest.xml:6:9-35
 	android:icon
-		ADDED from /Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from C:\Users\Edwin\Desktop\udacity\MarksApp\ToDoList\app\src\main\AndroidManifest.xml:7:9-43
 	android:theme
-		ADDED from /Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/src/main/AndroidManifest.xml:11:9-40
+		ADDED from C:\Users\Edwin\Desktop\udacity\MarksApp\ToDoList\app\src\main\AndroidManifest.xml:10:9-40
 activity#com.sargent.mark.todolist.MainActivity
-ADDED from /Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/src/main/AndroidManifest.xml:12:9-17:20
+ADDED from C:\Users\Edwin\Desktop\udacity\MarksApp\ToDoList\app\src\main\AndroidManifest.xml:11:9-19:20
+	android:configChanges
+		ADDED from C:\Users\Edwin\Desktop\udacity\MarksApp\ToDoList\app\src\main\AndroidManifest.xml:12:13-74
 	android:name
-		ADDED from /Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/src/main/AndroidManifest.xml:12:19-47
+		ADDED from C:\Users\Edwin\Desktop\udacity\MarksApp\ToDoList\app\src\main\AndroidManifest.xml:11:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/src/main/AndroidManifest.xml:13:13-16:29
+ADDED from C:\Users\Edwin\Desktop\udacity\MarksApp\ToDoList\app\src\main\AndroidManifest.xml:14:13-18:29
 action#android.intent.action.MAIN
-ADDED from /Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/src/main/AndroidManifest.xml:14:17-69
+ADDED from C:\Users\Edwin\Desktop\udacity\MarksApp\ToDoList\app\src\main\AndroidManifest.xml:15:17-69
 	android:name
-		ADDED from /Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/src/main/AndroidManifest.xml:14:25-66
+		ADDED from C:\Users\Edwin\Desktop\udacity\MarksApp\ToDoList\app\src\main\AndroidManifest.xml:15:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/src/main/AndroidManifest.xml:15:17-77
+ADDED from C:\Users\Edwin\Desktop\udacity\MarksApp\ToDoList\app\src\main\AndroidManifest.xml:17:17-77
 	android:name
-		ADDED from /Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/src/main/AndroidManifest.xml:15:27-74
+		ADDED from C:\Users\Edwin\Desktop\udacity\MarksApp\ToDoList\app\src\main\AndroidManifest.xml:17:27-74
 uses-sdk
-INJECTED from /Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] /Users/mark/.android/build-cache/d86ea54c69eb8de07799a55d160957c3ab9d4eec/output/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:design:25.3.1] /Users/mark/.android/build-cache/714aa8b7bc8b4e35519217c99868c9466b53b607/output/AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/mark/.android/build-cache/2a6a6a5de6a804c20361c7f28f51f634b6a0aa9c/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/mark/.android/build-cache/acf0a6a22077ba347f55a4b29dee11c5aacef30a/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/mark/.android/build-cache/982370b4bf09a3552b26d762358cd7af7197f625/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/mark/.android/build-cache/44221eb6021010bd551745cc4a38e7b8dba1635c/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:transition:25.3.1] /Users/mark/.android/build-cache/593250c810594616a1a15c7655a1a8c3b2646fc4/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:25.3.1] /Users/mark/.android/build-cache/1c41ed3d3f968dfca72f329ee84319bc7909374b/output/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] /Users/mark/.android/build-cache/df4d8d5b9d54ee28ae75bb807b0cc1cff20089ae/output/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] /Users/mark/.android/build-cache/70ff3bd69ba992b8cf0424c262f156cd36bc20ea/output/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.1] /Users/mark/.android/build-cache/6d6d88cbb2488891b2e87df13e37d343b236dee3/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.1] /Users/mark/.android/build-cache/a3316f35145b4081aeaa9fe4ff9f303862dac308/output/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.3.1] /Users/mark/.android/build-cache/19683f69545d7fd363fd5680c8edad42cd6e05a8/output/AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\Edwin\Desktop\udacity\MarksApp\ToDoList\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.1] C:\Users\Edwin\.android\build-cache\729e28baf4a55efd70ce36e9f90be8b2f4c36dd1\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Edwin\.android\build-cache\8c00700bdd52b7a8ef1f21acac63ca86d38e345b\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Edwin\.android\build-cache\4ecade42da9e7011b8cffd5c4714946d72531825\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Edwin\.android\build-cache\de884a8bce34ca39093eb94ede348dc090e4b358\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Edwin\.android\build-cache\d67653aa14d8f161fdcdaac0e1dcf215b0aa6eb4\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Edwin\.android\build-cache\59d686678e6e2c1f91369251af2e00b3c127bdcc\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Edwin\.android\build-cache\d9d0dfd746ed830af352f1e4b7d8a10ed5f649d3\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Edwin\.android\build-cache\8087103f9a2c094008d93a5536e353a5e5e35007\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Edwin\.android\build-cache\3470fc3c67f4e32ca3eee95d5e679a971f2d0086\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Edwin\.android\build-cache\35412357f340279e17ab52330ce489ce75b10e97\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Edwin\.android\build-cache\3afb54ad38b4f4043aabff408eeb03401632da56\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Edwin\.android\build-cache\c5ded273422609b060900081306bc21478cb88c8\output\AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:25.3.1] /Users/mark/.android/build-cache/714aa8b7bc8b4e35519217c99868c9466b53b607/output/AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Edwin\.android\build-cache\729e28baf4a55efd70ce36e9f90be8b2f4c36dd1\output\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from /Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\Edwin\Desktop\udacity\MarksApp\ToDoList\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Edwin\Desktop\udacity\MarksApp\ToDoList\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\Edwin\Desktop\udacity\MarksApp\ToDoList\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Edwin\Desktop\udacity\MarksApp\ToDoList\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:design:25.3.1] /Users/mark/.android/build-cache/714aa8b7bc8b4e35519217c99868c9466b53b607/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/mark/.android/build-cache/2a6a6a5de6a804c20361c7f28f51f634b6a0aa9c/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/mark/.android/build-cache/acf0a6a22077ba347f55a4b29dee11c5aacef30a/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/mark/.android/build-cache/982370b4bf09a3552b26d762358cd7af7197f625/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/mark/.android/build-cache/44221eb6021010bd551745cc4a38e7b8dba1635c/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:transition:25.3.1] /Users/mark/.android/build-cache/593250c810594616a1a15c7655a1a8c3b2646fc4/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-v4:25.3.1] /Users/mark/.android/build-cache/1c41ed3d3f968dfca72f329ee84319bc7909374b/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] /Users/mark/.android/build-cache/df4d8d5b9d54ee28ae75bb807b0cc1cff20089ae/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] /Users/mark/.android/build-cache/70ff3bd69ba992b8cf0424c262f156cd36bc20ea/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] /Users/mark/.android/build-cache/6d6d88cbb2488891b2e87df13e37d343b236dee3/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] /Users/mark/.android/build-cache/a3316f35145b4081aeaa9fe4ff9f303862dac308/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] /Users/mark/.android/build-cache/19683f69545d7fd363fd5680c8edad42cd6e05a8/output/AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:design:25.3.1] C:\Users\Edwin\.android\build-cache\729e28baf4a55efd70ce36e9f90be8b2f4c36dd1\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Edwin\.android\build-cache\8c00700bdd52b7a8ef1f21acac63ca86d38e345b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Edwin\.android\build-cache\4ecade42da9e7011b8cffd5c4714946d72531825\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Edwin\.android\build-cache\de884a8bce34ca39093eb94ede348dc090e4b358\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Edwin\.android\build-cache\d67653aa14d8f161fdcdaac0e1dcf215b0aa6eb4\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Edwin\.android\build-cache\59d686678e6e2c1f91369251af2e00b3c127bdcc\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Edwin\.android\build-cache\d9d0dfd746ed830af352f1e4b7d8a10ed5f649d3\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Edwin\.android\build-cache\8087103f9a2c094008d93a5536e353a5e5e35007\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Edwin\.android\build-cache\3470fc3c67f4e32ca3eee95d5e679a971f2d0086\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Edwin\.android\build-cache\35412357f340279e17ab52330ce489ce75b10e97\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Edwin\.android\build-cache\3afb54ad38b4f4043aabff408eeb03401632da56\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Edwin\.android\build-cache\c5ded273422609b060900081306bc21478cb88c8\output\AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:design:25.3.1] /Users/mark/.android/build-cache/714aa8b7bc8b4e35519217c99868c9466b53b607/output/AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Edwin\.android\build-cache\729e28baf4a55efd70ce36e9f90be8b2f4c36dd1\output\AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:design:25.3.1] /Users/mark/.android/build-cache/714aa8b7bc8b4e35519217c99868c9466b53b607/output/AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Edwin\.android\build-cache\729e28baf4a55efd70ce36e9f90be8b2f4c36dd1\output\AndroidManifest.xml:26:9-47

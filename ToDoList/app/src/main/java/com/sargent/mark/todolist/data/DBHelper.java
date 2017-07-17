@@ -19,12 +19,16 @@ public class DBHelper extends SQLiteOpenHelper{
         super(context, DATABASE_NAME, null, DATABASE_VERSION);
     }
 
+    //added two new columns
+
     @Override
     public void onCreate(SQLiteDatabase db) {
         String queryString = "CREATE TABLE " + Contract.TABLE_TODO.TABLE_NAME + " ("+
                 Contract.TABLE_TODO._ID + " INTEGER PRIMARY KEY AUTOINCREMENT," +
                 Contract.TABLE_TODO.COLUMN_NAME_DESCRIPTION + " TEXT NOT NULL, " +
-                Contract.TABLE_TODO.COLUMN_NAME_DUE_DATE + " DATE " + "); ";
+                Contract.TABLE_TODO.COLUMN_NAME_DUE_DATE + " DATE," +
+                Contract.TABLE_TODO.COLUMN_NAME_CATEGORY + " TEXT NOT NULL, " +
+                Contract.TABLE_TODO.COLUMN_NAME_IS_DONE + " INTEGER " + "); ";
 
         Log.d(TAG, "Create table SQL: " + queryString);
         db.execSQL(queryString);

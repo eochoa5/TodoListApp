@@ -1,7 +1,4 @@
-#Wed Jul 12 14:47:50 PDT 2017
-base.0=/Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1c41d78b6335b2d6cedf2ad8cbc37a7ea7f98c22
-renamed.1=classes2.dex
+#Mon Jul 17 06:45:00 PDT 2017
+base.0=C\:\\Users\\Edwin\\Desktop\\udacity\\MarksApp\\ToDoList\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
-file.1=/Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_248a94d252828eb83a606f0af078799be5f1c862/classes.dex
-base.1=/Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_248a94d252828eb83a606f0af078799be5f1c862
-file.0=/Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1c41d78b6335b2d6cedf2ad8cbc37a7ea7f98c22/classes.dex
+file.0=C\:\\Users\\Edwin\\Desktop\\udacity\\MarksApp\\ToDoList\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

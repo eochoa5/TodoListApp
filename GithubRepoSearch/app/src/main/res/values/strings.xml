@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">GithubRepoSearch</string>
-    <string name="hint">Enter search term</string>
-    <string name="search_string">Search</string>
-</resources>

@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
-        "source": "/Users/mark/.android/build-cache/2a6a6a5de6a804c20361c7f28f51f634b6a0aa9c/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+        "merged": "C:\\Users\\Edwin\\Desktop\\udacity\\MarksApp\\ToDoList\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\Edwin\\.android\\build-cache\\8c00700bdd52b7a8ef1f21acac63ca86d38e345b\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
     },
     {
-        "merged": "/Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
-        "source": "/Users/mark/.android/build-cache/2a6a6a5de6a804c20361c7f28f51f634b6a0aa9c/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+        "merged": "C:\\Users\\Edwin\\Desktop\\udacity\\MarksApp\\ToDoList\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\Edwin\\.android\\build-cache\\8c00700bdd52b7a8ef1f21acac63ca86d38e345b\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
     }
 ]

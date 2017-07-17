@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "outputFile": "C:\\Users\\Edwin\\Desktop\\udacity\\MarksApp\\ToDoList\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 96
                 },
                 "from": {
-                    "file": "/Users/mark/.android/build-cache/7c36045f265cff76192bab2db287d5dda7893749/output/res/values/values.xml",
+                    "file": "C:\\Users\\Edwin\\.android\\build-cache\\d464f2fa0d22d82a0e682308d5a82459f4d633f0\\output\\res\\values\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

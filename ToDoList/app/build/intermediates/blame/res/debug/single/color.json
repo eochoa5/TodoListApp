@@ -1,90 +1,90 @@
 [
     {
-        "merged": "/Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
-        "source": "/Users/mark/.android/build-cache/2a6a6a5de6a804c20361c7f28f51f634b6a0aa9c/output/res/color/abc_primary_text_material_light.xml"
+        "merged": "C:\\Users\\Edwin\\Desktop\\udacity\\MarksApp\\ToDoList\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Edwin\\.android\\build-cache\\8c00700bdd52b7a8ef1f21acac63ca86d38e345b\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "/Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
-        "source": "/Users/mark/.android/build-cache/2a6a6a5de6a804c20361c7f28f51f634b6a0aa9c/output/res/color/abc_primary_text_disable_only_material_light.xml"
+        "merged": "C:\\Users\\Edwin\\Desktop\\udacity\\MarksApp\\ToDoList\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Edwin\\.android\\build-cache\\8c00700bdd52b7a8ef1f21acac63ca86d38e345b\\output\\res\\color\\switch_thumb_material_light.xml"
     },
     {
-        "merged": "/Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
-        "source": "/Users/mark/.android/build-cache/2a6a6a5de6a804c20361c7f28f51f634b6a0aa9c/output/res/color/switch_thumb_material_dark.xml"
+        "merged": "C:\\Users\\Edwin\\Desktop\\udacity\\MarksApp\\ToDoList\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\Edwin\\.android\\build-cache\\8c00700bdd52b7a8ef1f21acac63ca86d38e345b\\output\\res\\color\\abc_hint_foreground_material_light.xml"
     },
     {
-        "merged": "/Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
-        "source": "/Users/mark/.android/build-cache/2a6a6a5de6a804c20361c7f28f51f634b6a0aa9c/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+        "merged": "C:\\Users\\Edwin\\Desktop\\udacity\\MarksApp\\ToDoList\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Edwin\\.android\\build-cache\\8c00700bdd52b7a8ef1f21acac63ca86d38e345b\\output\\res\\color\\abc_primary_text_material_dark.xml"
     },
     {
-        "merged": "/Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
-        "source": "/Users/mark/.android/build-cache/2a6a6a5de6a804c20361c7f28f51f634b6a0aa9c/output/res/color/abc_hint_foreground_material_dark.xml"
+        "merged": "C:\\Users\\Edwin\\Desktop\\udacity\\MarksApp\\ToDoList\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\Edwin\\.android\\build-cache\\8c00700bdd52b7a8ef1f21acac63ca86d38e345b\\output\\res\\color\\abc_tint_switch_track.xml"
     },
     {
-        "merged": "/Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
-        "source": "/Users/mark/.android/build-cache/2a6a6a5de6a804c20361c7f28f51f634b6a0aa9c/output/res/color/abc_tint_switch_track.xml"
+        "merged": "C:\\Users\\Edwin\\Desktop\\udacity\\MarksApp\\ToDoList\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Edwin\\.android\\build-cache\\8c00700bdd52b7a8ef1f21acac63ca86d38e345b\\output\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "/Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
-        "source": "/Users/mark/.android/build-cache/2a6a6a5de6a804c20361c7f28f51f634b6a0aa9c/output/res/color/abc_btn_colored_text_material.xml"
+        "merged": "C:\\Users\\Edwin\\Desktop\\udacity\\MarksApp\\ToDoList\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\Edwin\\.android\\build-cache\\8c00700bdd52b7a8ef1f21acac63ca86d38e345b\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
     },
     {
-        "merged": "/Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
-        "source": "/Users/mark/.android/build-cache/2a6a6a5de6a804c20361c7f28f51f634b6a0aa9c/output/res/color/abc_btn_colored_borderless_text_material.xml"
+        "merged": "C:\\Users\\Edwin\\Desktop\\udacity\\MarksApp\\ToDoList\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\Edwin\\.android\\build-cache\\8c00700bdd52b7a8ef1f21acac63ca86d38e345b\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "/Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
-        "source": "/Users/mark/.android/build-cache/2a6a6a5de6a804c20361c7f28f51f634b6a0aa9c/output/res/color/abc_tint_switch_thumb.xml"
+        "merged": "C:\\Users\\Edwin\\Desktop\\udacity\\MarksApp\\ToDoList\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Edwin\\.android\\build-cache\\8c00700bdd52b7a8ef1f21acac63ca86d38e345b\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     },
     {
-        "merged": "/Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
-        "source": "/Users/mark/.android/build-cache/2a6a6a5de6a804c20361c7f28f51f634b6a0aa9c/output/res/color/abc_secondary_text_material_dark.xml"
+        "merged": "C:\\Users\\Edwin\\Desktop\\udacity\\MarksApp\\ToDoList\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Edwin\\.android\\build-cache\\8c00700bdd52b7a8ef1f21acac63ca86d38e345b\\output\\res\\color\\abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "/Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
-        "source": "/Users/mark/.android/build-cache/2a6a6a5de6a804c20361c7f28f51f634b6a0aa9c/output/res/color/switch_thumb_material_light.xml"
+        "merged": "C:\\Users\\Edwin\\Desktop\\udacity\\MarksApp\\ToDoList\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "C:\\Users\\Edwin\\.android\\build-cache\\729e28baf4a55efd70ce36e9f90be8b2f4c36dd1\\output\\res\\color\\design_error.xml"
     },
     {
-        "merged": "/Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
-        "source": "/Users/mark/.android/build-cache/714aa8b7bc8b4e35519217c99868c9466b53b607/output/res/color/design_tint_password_toggle.xml"
+        "merged": "C:\\Users\\Edwin\\Desktop\\udacity\\MarksApp\\ToDoList\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\Edwin\\.android\\build-cache\\8c00700bdd52b7a8ef1f21acac63ca86d38e345b\\output\\res\\color\\abc_btn_colored_text_material.xml"
     },
     {
-        "merged": "/Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
-        "source": "/Users/mark/.android/build-cache/2a6a6a5de6a804c20361c7f28f51f634b6a0aa9c/output/res/color/abc_tint_seek_thumb.xml"
+        "merged": "C:\\Users\\Edwin\\Desktop\\udacity\\MarksApp\\ToDoList\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\Edwin\\.android\\build-cache\\8c00700bdd52b7a8ef1f21acac63ca86d38e345b\\output\\res\\color\\abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "/Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/build/intermediates/res/merged/debug/color/design_error.xml",
-        "source": "/Users/mark/.android/build-cache/714aa8b7bc8b4e35519217c99868c9466b53b607/output/res/color/design_error.xml"
+        "merged": "C:\\Users\\Edwin\\Desktop\\udacity\\MarksApp\\ToDoList\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\Edwin\\.android\\build-cache\\8c00700bdd52b7a8ef1f21acac63ca86d38e345b\\output\\res\\color\\abc_tint_switch_thumb.xml"
     },
     {
-        "merged": "/Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
-        "source": "/Users/mark/.android/build-cache/2a6a6a5de6a804c20361c7f28f51f634b6a0aa9c/output/res/color/abc_tint_btn_checkable.xml"
+        "merged": "C:\\Users\\Edwin\\Desktop\\udacity\\MarksApp\\ToDoList\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\Edwin\\.android\\build-cache\\8c00700bdd52b7a8ef1f21acac63ca86d38e345b\\output\\res\\color\\abc_tint_edittext.xml"
     },
     {
-        "merged": "/Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
-        "source": "/Users/mark/.android/build-cache/2a6a6a5de6a804c20361c7f28f51f634b6a0aa9c/output/res/color/abc_search_url_text.xml"
+        "merged": "C:\\Users\\Edwin\\Desktop\\udacity\\MarksApp\\ToDoList\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Edwin\\.android\\build-cache\\8c00700bdd52b7a8ef1f21acac63ca86d38e345b\\output\\res\\color\\switch_thumb_material_dark.xml"
     },
     {
-        "merged": "/Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
-        "source": "/Users/mark/.android/build-cache/2a6a6a5de6a804c20361c7f28f51f634b6a0aa9c/output/res/color/abc_secondary_text_material_light.xml"
+        "merged": "C:\\Users\\Edwin\\Desktop\\udacity\\MarksApp\\ToDoList\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\Edwin\\.android\\build-cache\\8c00700bdd52b7a8ef1f21acac63ca86d38e345b\\output\\res\\color\\abc_tint_spinner.xml"
     },
     {
-        "merged": "/Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
-        "source": "/Users/mark/.android/build-cache/2a6a6a5de6a804c20361c7f28f51f634b6a0aa9c/output/res/color/abc_tint_default.xml"
+        "merged": "C:\\Users\\Edwin\\Desktop\\udacity\\MarksApp\\ToDoList\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Edwin\\.android\\build-cache\\8c00700bdd52b7a8ef1f21acac63ca86d38e345b\\output\\res\\color\\abc_primary_text_material_light.xml"
     },
     {
-        "merged": "/Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
-        "source": "/Users/mark/.android/build-cache/2a6a6a5de6a804c20361c7f28f51f634b6a0aa9c/output/res/color/abc_primary_text_material_dark.xml"
+        "merged": "C:\\Users\\Edwin\\Desktop\\udacity\\MarksApp\\ToDoList\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\Edwin\\.android\\build-cache\\729e28baf4a55efd70ce36e9f90be8b2f4c36dd1\\output\\res\\color\\design_tint_password_toggle.xml"
     },
     {
-        "merged": "/Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
-        "source": "/Users/mark/.android/build-cache/2a6a6a5de6a804c20361c7f28f51f634b6a0aa9c/output/res/color/abc_hint_foreground_material_light.xml"
+        "merged": "C:\\Users\\Edwin\\Desktop\\udacity\\MarksApp\\ToDoList\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Edwin\\.android\\build-cache\\8c00700bdd52b7a8ef1f21acac63ca86d38e345b\\output\\res\\color\\abc_search_url_text.xml"
     },
     {
-        "merged": "/Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
-        "source": "/Users/mark/.android/build-cache/2a6a6a5de6a804c20361c7f28f51f634b6a0aa9c/output/res/color/abc_tint_edittext.xml"
+        "merged": "C:\\Users\\Edwin\\Desktop\\udacity\\MarksApp\\ToDoList\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\Edwin\\.android\\build-cache\\8c00700bdd52b7a8ef1f21acac63ca86d38e345b\\output\\res\\color\\abc_tint_default.xml"
     },
     {
-        "merged": "/Users/mark/Desktop/AndroidClass/inclass/ToDoList/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
-        "source": "/Users/mark/.android/build-cache/2a6a6a5de6a804c20361c7f28f51f634b6a0aa9c/output/res/color/abc_tint_spinner.xml"
+        "merged": "C:\\Users\\Edwin\\Desktop\\udacity\\MarksApp\\ToDoList\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\Edwin\\.android\\build-cache\\8c00700bdd52b7a8ef1f21acac63ca86d38e345b\\output\\res\\color\\abc_tint_seek_thumb.xml"
     }
 ]

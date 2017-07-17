@@ -6,9 +6,11 @@ import android.support.v4.app.DialogFragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.DatePicker;
 import android.widget.EditText;
+import android.widget.Spinner;
 import android.widget.TimePicker;
 
 import java.util.Calendar;
@@ -23,21 +25,30 @@ public class AddToDoFragment extends DialogFragment{
     private DatePicker dp;
     private Button add;
     private final String TAG = "addtodofragment";
+    private Spinner dropdown;
 
     public AddToDoFragment() {
     }
 
     //To have a way for the activity to get the data from the dialog
     public interface OnDialogCloseListener {
-        void closeDialog(int year, int month, int day, String description);
+        void closeDialog(int year, int month, int day, String description, String category, int isDone);
     }
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
+        getDialog().setTitle("Add new to-do");
         View view = inflater.inflate(R.layout.fragment_to_do_adder, container, false);
         toDo = (EditText) view.findViewById(R.id.toDo);
         dp = (DatePicker) view.findViewById(R.id.datePicker);
         add = (Button) view.findViewById(R.id.add);
+
+        //added spinner
+        dropdown = (Spinner)view.findViewById(R.id.spinner);
+        String[] items = new String[]{"School", "Work", "Free time", "Family"};
+        ArrayAdapter<String> adapter = new ArrayAdapter<String>(getContext(), android.R.layout.simple_spinner_dropdown_item, items);
+        dropdown.setAdapter(adapter);
+
 
         final Calendar c = Calendar.getInstance();
         int year = c.get(Calendar.YEAR);
@@ -50,7 +61,8 @@ public class AddToDoFragment extends DialogFragment{
             @Override
             public void onClick(View v) {
                 OnDialogCloseListener activity = (OnDialogCloseListener) getActivity();
-                activity.closeDialog(dp.getYear(), dp.getMonth(), dp.getDayOfMonth(), toDo.getText().toString());
+                activity.closeDialog(dp.getYear(), dp.getMonth(), dp.getDayOfMonth(),
+                        toDo.getText().toString(), dropdown.getSelectedItem().toString(), 0);
                 AddToDoFragment.this.dismiss();
             }
         });

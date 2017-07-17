@@ -6,10 +6,13 @@ import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.DatePicker;
 import android.widget.EditText;
+import android.widget.Spinner;
 
+import java.util.Arrays;
 import java.util.Calendar;
 
 /**
@@ -21,13 +24,16 @@ public class UpdateToDoFragment extends DialogFragment {
     private EditText toDo;
     private DatePicker dp;
     private Button add;
+    private Spinner dropdown;
     private final String TAG = "updatetodofragment";
     private long id;
 
 
     public UpdateToDoFragment(){}
+    //added category param to constructor
+    public static UpdateToDoFragment newInstance(int year, int month, int day, String description, long id,
+                                                 String category) {
 
-    public static UpdateToDoFragment newInstance(int year, int month, int day, String descrpition, long id) {
         UpdateToDoFragment f = new UpdateToDoFragment();
 
         // Supply num input as an argument.
@@ -36,7 +42,9 @@ public class UpdateToDoFragment extends DialogFragment {
         args.putInt("month", month);
         args.putInt("day", day);
         args.putLong("id", id);
-        args.putString("description", descrpition);
+        args.putString("description", description);
+        //put category in bundle
+        args.putString("category", category);
 
         f.setArguments(args);
 
@@ -45,7 +53,7 @@ public class UpdateToDoFragment extends DialogFragment {
 
     //To have a way for the activity to get the data from the dialog
     public interface OnUpdateDialogCloseListener {
-        void closeUpdateDialog(int year, int month, int day, String description, long id);
+        void closeUpdateDialog(int year, int month, int day, String description, long id, String category);
     }
 
     @Override
@@ -55,11 +63,23 @@ public class UpdateToDoFragment extends DialogFragment {
         dp = (DatePicker) view.findViewById(R.id.datePicker);
         add = (Button) view.findViewById(R.id.add);
 
+        //show a dropdown
+        dropdown = (Spinner) view.findViewById(R.id.spinner);
+        String[] items = new String[]{"School", "Work", "Free time", "Family"};
+        ArrayAdapter<String> adapter = new ArrayAdapter<String>(getContext(), android.R.layout.simple_spinner_dropdown_item, items);
+        dropdown.setAdapter(adapter);
+
         int year = getArguments().getInt("year");
         int month = getArguments().getInt("month");
         int day = getArguments().getInt("day");
         id = getArguments().getLong("id");
         String description = getArguments().getString("description");
+
+        //grab category from bundle
+        String category = getArguments().getString("category");
+        //get index of category previously saved
+        dropdown.setSelection(Arrays.asList(items).indexOf(category));
+
         dp.updateDate(year, month, day);
 
         toDo.setText(description);
@@ -70,7 +90,8 @@ public class UpdateToDoFragment extends DialogFragment {
             public void onClick(View v) {
                 UpdateToDoFragment.OnUpdateDialogCloseListener activity = (UpdateToDoFragment.OnUpdateDialogCloseListener) getActivity();
                 Log.d(TAG, "id: " + id);
-                activity.closeUpdateDialog(dp.getYear(), dp.getMonth(), dp.getDayOfMonth(), toDo.getText().toString(), id);
+                activity.closeUpdateDialog(dp.getYear(), dp.getMonth(), dp.getDayOfMonth(), toDo.getText().toString(),
+                        id, dropdown.getSelectedItem().toString());
                 UpdateToDoFragment.this.dismiss();
             }
         });
